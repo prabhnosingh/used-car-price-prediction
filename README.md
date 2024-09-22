@@ -7,13 +7,12 @@ This is a dynamic web application designed to let users efficiently predict car 
 Ensure you have the following installed before proceeding:
 - Node.js and npm: Download and install from [Node.js website](https://nodejs.org/).
 - Python 3.7+: Install Python from [Python website](https://www.python.org/downloads/).
-- MongoDB: Set up MongoDB locally or use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 - FastAPI: Install FastAPI using `pip install fastapi`.
 
 ## Getting Started:
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-repo/used-car-price-prediction.git](https://github.com/prabhnosingh/used-car-price-prediction.git)
+    git clone https://github.com/prabhnosingh/used-car-price-prediction.git
     cd used-car-price-prediction
     ```
 
@@ -42,3 +41,4 @@ Ensure you have the following installed before proceeding:
 
 6. Access the app:
     Open your browser and visit `http://localhost:3000`.
+
