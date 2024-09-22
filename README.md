@@ -1,5 +1,5 @@
 # Used Car Price Prediction
-
+ 
 ## Introduction:
 This is a dynamic web application designed to let users efficiently predict car prices using machine learning models. The project scrapes relevant data from various car websites, processes it, and provides users with accurate price predictions. Below, you'll find the instructions to set up and run this project on your local machine.
 
